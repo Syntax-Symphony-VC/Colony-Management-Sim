@@ -1,2 +1,71 @@
-# Colony-Management-Sim
-A game focused on managing a sci-fi colony.
+- @aismail5
+#- @aismail5
+ - @aismail5
+C- @aismail5
+o- @aismail5
+l- @aismail5
+o- @aismail5
+n- @aismail5
+y- @aismail5
+-- @aismail5
+M- @aismail5
+a- @aismail5
+n- @aismail5
+a- @aismail5
+g- @aismail5
+e- @aismail5
+m- @aismail5
+e- @aismail5
+n- @aismail5
+t- @aismail5
+-- @aismail5
+S- @aismail5
+i- @aismail5
+m- @aismail5
+
+- @aismail5
+A- @aismail5
+ - @aismail5
+g- @aismail5
+a- @aismail5
+m- @aismail5
+e- @aismail5
+ - @aismail5
+f- @aismail5
+o- @aismail5
+c- @aismail5
+u- @aismail5
+s- @aismail5
+e- @aismail5
+d- @aismail5
+ - @aismail5
+o- @aismail5
+n- @aismail5
+ - @aismail5
+m- @aismail5
+a- @aismail5
+n- @aismail5
+a- @aismail5
+g- @aismail5
+i- @aismail5
+n- @aismail5
+g- @aismail5
+ - @aismail5
+a- @aismail5
+ - @aismail5
+s- @aismail5
+c- @aismail5
+i- @aismail5
+-- @aismail5
+f- @aismail5
+i- @aismail5
+ - @aismail5
+c- @aismail5
+o- @aismail5
+l- @aismail5
+o- @aismail5
+n- @aismail5
+y- @aismail5
+.- @aismail5
+
+- @aismail5
